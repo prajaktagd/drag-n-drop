@@ -1,0 +1,19 @@
+{
+  "name": "drag-n-drop",
+  "version": "1.0.0",
+  "description": "Learning TypeScript!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7"
+  }
+}
