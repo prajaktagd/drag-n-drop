@@ -91,6 +91,7 @@ button:active {
   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.26);
   padding: 1rem;
   margin: 1rem;
+  background-color: white;
 }
 
 .projects li h2 {
@@ -111,11 +112,11 @@ button:active {
   margin: 0;
 }
 
-.droppable {
+#active-projects.droppable {
   background: #ffe3ee;
 }
 
-#finished-projects .droppable {
+#finished-projects.droppable {
   background: #d6e1ff;
 }
 
